@@ -138,6 +138,7 @@ venv.bak/
 .idea
 .vscode
 .ipynb_checkpoints
+my
 
 # Spyder project settings
 .spyderproject
