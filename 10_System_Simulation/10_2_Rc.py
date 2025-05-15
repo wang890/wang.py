@@ -125,7 +125,8 @@ def save_outs(solution, y_index, col_x_name, col_y_name):
             col_y_name: solution.y[y_index]
         })
         # 写入Excel文件
-        filename = '../3020/sim_outs.xlsx'
+        # filename = '../3020/sim_outs.xlsx'
+        filename = 'sim_outs.xlsx'
         df.to_excel(filename, index=False, engine='openpyxl')  # 明确指定引擎
         print(f"\033[32m数据已成功保存至 {filename}\033[0m")
     except Exception as e:
