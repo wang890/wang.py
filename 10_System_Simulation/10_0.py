@@ -99,3 +99,5 @@ plt.show()
 # print("Saving animation...")
 # ani.save('cartesian_pendulum_constraint.gif', writer='pillow', fps=1/dt)
 # print("Done.")
+
+a = 1
