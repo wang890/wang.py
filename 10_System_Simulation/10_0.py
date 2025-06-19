@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from scipy.integrate import solve_ivp
-# ODE hello world
+# ODE hello
 # --- Parameters ---
 g = 9.81
 L = 1.0
