@@ -1,0 +1,5 @@
+{
+    "editor.fontLigatures": false,
+    "editor.mouseWheelZoom": true,
+    "python.analysis.completeFunctionParens": true
+}
