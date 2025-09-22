@@ -178,3 +178,6 @@ cython_debug/
 .pypirc
 
 *.xlsx
+11_1*.ipynb
+11_1*.py
+11_1*.md
