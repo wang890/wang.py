@@ -6,7 +6,7 @@
 
 + 非单个的一堆的 pack and iterable, 五种：str字符串, list列表, tuple元组, set集合, dict字典
 
-+ 有序的 ordered pack: str, list, tuple
++ 有序的 ordered pack，称为 **sequence**: str, list, tuple
 + 无序的 unordered pack: set, dict
 
 + 可修改的 mutable pack: list, set, dict

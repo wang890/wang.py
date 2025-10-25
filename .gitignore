@@ -181,3 +181,7 @@ cython_debug/
 11_1*.ipynb
 11_1*.py
 11_1*.md
+
+7_1*.ipynb
+7_1*.py
+7_1*.md
