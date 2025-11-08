@@ -1,5 +1,6 @@
 {
     "editor.fontLigatures": false,
     "editor.mouseWheelZoom": true,
-    "python.analysis.completeFunctionParens": true
+    "python.analysis.completeFunctionParens": true,
+    "workbench.colorTheme": "Default Dark Modern"
 }

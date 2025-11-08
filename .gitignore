@@ -185,3 +185,8 @@ cython_debug/
 7_1*.ipynb
 7_1*.py
 7_1*.md
+
+scores1_raw
+scores2_images
+scores3_xlsx
+scores4_xlsx_items
